@@ -1,15 +1,15 @@
-# AgentMint Playbooks
+# Lazurio Example Organization playbooks
 
-Modul pro ověřené opakovatelné mechanismy a operační playbooky.
+A module for proven, repeatable mechanisms and operational playbooks.
 
-Do playbooku patří až postup, který má dostatečný důkaz z research a
-experimentů. Hypotézy a nápady sem nepatří.
+A procedure belongs in a playbook only once research and experiments give it
+enough evidence. Hypotheses and ideas do not belong here.
 
-## Playbook musí říct
+## What a playbook must state
 
-- pro koho mechanismus funguje
-- jaký problém řeší
-- jak vypadá nabídka, kanál a delivery
-- jaká evidence ukazuje, že to funguje
-- jaké jsou guardrails a stop signály
-- jak se měří unit economics
+- who the mechanism works for
+- what problem it solves
+- what the offer, channel and delivery look like
+- what evidence shows that it works
+- what the guardrails and stop signals are
+- how the unit economics are measured
